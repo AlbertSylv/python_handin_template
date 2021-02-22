@@ -1,0 +1,816 @@
+Jens Konradsen
+male
+Robotics, Anatomy, 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Jens Andersen
+male
+Mat, Bio, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Gitte Andersen
+female
+Bio, Anatomy, 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Gitte Jensen
+female
+Bio, Chemistry, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Bolette Jensen
+female
+Chemistry, Robotics, 
+Lars Peter, Prof. Anderson, 
+2, 3, 
+Room 23, Room 39, 
+None, None, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Dorrit Allansen
+female
+Mat, Robotics, 
+Mr. Fartypants, Prof. Anderson, 
+6, 3, 
+Room 1, Room 39, 
+10, None, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Hans Hansen
+male
+Mat, Bio, 
+Mr. Fartypants, Ms. Fartypants, 
+6, 4, 
+Room 1, Room 2, 
+10, 12, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Hans Konradsen
+male
+Bio, Anatomy, 
+Ms. Fartypants, Mr Wang, 
+4, 5, 
+Room 2, Room 34, 
+12, None, 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Rasmine Mikkelsen
+female
+Bio, Anatomy, 
+Ms. Fartypants, Mr Wang, 
+4, 5, 
+Room 2, Room 34, 
+12, None, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Kirsten Mikkelsen
+female
+Anatomy, Mat, 
+Mr Wang, Mr. Fartypants, 
+5, 6, 
+Room 34, Room 1, 
+None, 10, 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Kirsten Andersen
+female
+Chemistry, Mat, 
+Lars Peter, Mr. Fartypants, 
+2, 6, 
+Room 23, Room 1, 
+None, 10, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Bolette Jensen
+female
+Bio, Robotics, 
+Ms. Fartypants, Prof. Anderson, 
+4, 3, 
+Room 2, Room 39, 
+12, None, 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Dorthe Allansen
+female
+Bio, Robotics, 
+Ms. Fartypants, Prof. Anderson, 
+4, 3, 
+Room 2, Room 39, 
+12, None, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Dorrit Mikkelsen
+female
+Robotics, Mat, 
+Prof. Anderson, Mr. Fartypants, 
+3, 6, 
+Room 39, Room 1, 
+None, 10, 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Konrad Allansen
+male
+Robotics, Chemistry, 
+Prof. Anderson, Lars Peter, 
+3, 2, 
+Room 39, Room 23, 
+None, None, 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Rasmine Jensen
+female
+Bio, Mat, 
+Ms. Fartypants, Mr. Fartypants, 
+4, 6, 
+Room 2, Room 1, 
+12, 10, 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Anders Allansen
+male
+Anatomy; Chemistry; 
+Mr Wang; Lars Peter; 
+5; 2; 
+Room 34; Room 23; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Dorrit Konradsen
+female
+Mat; Bio; 
+Mr. Fartypants; Ms. Fartypants; 
+6; 4; 
+Room 1; Room 2; 
+10; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Allan Allansen
+male
+Chemistry; Mat; 
+Lars Peter; Mr. Fartypants; 
+2; 6; 
+Room 23; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Mikkel Andersen
+male
+Bio; Mat; 
+Ms. Fartypants; Mr. Fartypants; 
+4; 6; 
+Room 2; Room 1; 
+12; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Anders Allansen
+male
+Mat; Chemistry; 
+Mr. Fartypants; Lars Peter; 
+6; 2; 
+Room 1; Room 23; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Allan Andersen
+male
+Bio; Chemistry; 
+Ms. Fartypants; Lars Peter; 
+4; 2; 
+Room 2; Room 23; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Bolette Andersen
+female
+Chemistry; Anatomy; 
+Lars Peter; Mr Wang; 
+2; 5; 
+Room 23; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Rasmine Allansen
+female
+Chemistry; Mat; 
+Lars Peter; Mr. Fartypants; 
+2; 6; 
+Room 23; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Gitte Mikkelsen
+female
+Bio; Anatomy; 
+Ms. Fartypants; Mr Wang; 
+4; 5; 
+Room 2; Room 34; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Bolette Allansen
+female
+Mat; Chemistry; 
+Mr. Fartypants; Lars Peter; 
+6; 2; 
+Room 1; Room 23; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Konrad Hansen
+male
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Anders Konradsen
+male
+Anatomy; Robotics; 
+Mr Wang; Prof. Anderson; 
+5; 3; 
+Room 34; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Dorthe Mikkelsen
+female
+Chemistry; Anatomy; 
+Lars Peter; Mr Wang; 
+2; 5; 
+Room 23; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Rasmine Jensen
+female
+Robotics; Bio; 
+Prof. Anderson; Ms. Fartypants; 
+3; 4; 
+Room 39; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Mikkel Konradsen
+male
+Chemistry; Anatomy; 
+Lars Peter; Mr Wang; 
+2; 5; 
+Room 23; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Dorrit Konradsen
+female
+Bio; Mat; 
+Ms. Fartypants; Mr. Fartypants; 
+4; 6; 
+Room 2; Room 1; 
+12; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Gitte Andersen
+female
+Bio; Chemistry; 
+Ms. Fartypants; Lars Peter; 
+4; 2; 
+Room 2; Room 23; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Konrad Konradsen
+male
+Mat; Anatomy; 
+Mr. Fartypants; Mr Wang; 
+6; 5; 
+Room 1; Room 34; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Gitte Andersen
+female
+Chemistry; Mat; 
+Lars Peter; Mr. Fartypants; 
+2; 6; 
+Room 23; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Konrad Andersen
+male
+Robotics; Chemistry; 
+Prof. Anderson; Lars Peter; 
+3; 2; 
+Room 39; Room 23; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Rasmine Allansen
+female
+Mat; Chemistry; 
+Mr. Fartypants; Lars Peter; 
+6; 2; 
+Room 1; Room 23; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Dorrit Andersen
+female
+Chemistry; Anatomy; 
+Lars Peter; Mr Wang; 
+2; 5; 
+Room 23; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Mikkel Allansen
+male
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Hans Allansen
+male
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Mikkel Jensen
+male
+Chemistry; Bio; 
+Lars Peter; Ms. Fartypants; 
+2; 4; 
+Room 23; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Rasmine Konradsen
+female
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Mikkel Jensen
+male
+Chemistry; Mat; 
+Lars Peter; Mr. Fartypants; 
+2; 6; 
+Room 23; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Mikkel Hansen
+male
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Dorthe Konradsen
+female
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Gitte Jensen
+female
+Robotics; Chemistry; 
+Prof. Anderson; Lars Peter; 
+3; 2; 
+Room 39; Room 23; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Mikkel Jensen
+male
+Bio; Chemistry; 
+Ms. Fartypants; Lars Peter; 
+4; 2; 
+Room 2; Room 23; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Hans Mikkelsen
+male
+Bio; Mat; 
+Ms. Fartypants; Mr. Fartypants; 
+4; 6; 
+Room 2; Room 1; 
+12; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Bolette Allansen
+female
+Robotics; Chemistry; 
+Prof. Anderson; Lars Peter; 
+3; 2; 
+Room 39; Room 23; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Rasmine Allansen
+female
+Bio; Robotics; 
+Ms. Fartypants; Prof. Anderson; 
+4; 3; 
+Room 2; Room 39; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Konrad Hansen
+male
+Robotics; Anatomy; 
+Prof. Anderson; Mr Wang; 
+3; 5; 
+Room 39; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Hans Mikkelsen
+male
+Mat; Anatomy; 
+Mr. Fartypants; Mr Wang; 
+6; 5; 
+Room 1; Room 34; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Kirsten Konradsen
+female
+Chemistry; Mat; 
+Lars Peter; Mr. Fartypants; 
+2; 6; 
+Room 23; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Jens Hansen
+male
+Robotics; Bio; 
+Prof. Anderson; Ms. Fartypants; 
+3; 4; 
+Room 39; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Allan Mikkelsen
+male
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Rasmine Konradsen
+female
+Bio; Mat; 
+Ms. Fartypants; Mr. Fartypants; 
+4; 6; 
+Room 2; Room 1; 
+12; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Rasmine Hansen
+female
+Mat; Bio; 
+Mr. Fartypants; Ms. Fartypants; 
+6; 4; 
+Room 1; Room 2; 
+10; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Mikkel Mikkelsen
+male
+Chemistry; Mat; 
+Lars Peter; Mr. Fartypants; 
+2; 6; 
+Room 23; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Rasmine Andersen
+female
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Hans Andersen
+male
+Robotics; Bio; 
+Prof. Anderson; Ms. Fartypants; 
+3; 4; 
+Room 39; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Mikkel Andersen
+male
+Anatomy; Robotics; 
+Mr Wang; Prof. Anderson; 
+5; 3; 
+Room 34; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Allan Mikkelsen
+male
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Konrad Allansen
+male
+Bio; Robotics; 
+Ms. Fartypants; Prof. Anderson; 
+4; 3; 
+Room 2; Room 39; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Jens Mikkelsen
+male
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Kirsten Allansen
+female
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Dorrit Andersen
+female
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Hans Hansen
+male
+Mat; Robotics; 
+Mr. Fartypants; Prof. Anderson; 
+6; 3; 
+Room 1; Room 39; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Anders Andersen
+male
+Chemistry; Bio; 
+Lars Peter; Ms. Fartypants; 
+2; 4; 
+Room 23; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Dorthe Allansen
+female
+Anatomy; Robotics; 
+Mr Wang; Prof. Anderson; 
+5; 3; 
+Room 34; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Allan Konradsen
+male
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Jens Konradsen
+male
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Kirsten Allansen
+female
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Konrad Allansen
+male
+Anatomy; Robotics; 
+Mr Wang; Prof. Anderson; 
+5; 3; 
+Room 34; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Dorrit Andersen
+female
+Robotics; Anatomy; 
+Prof. Anderson; Mr Wang; 
+3; 5; 
+Room 39; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Dorrit Allansen
+female
+Robotics; Anatomy; 
+Prof. Anderson; Mr Wang; 
+3; 5; 
+Room 39; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Anders Allansen
+male
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Gitte Jensen
+female
+Bio; Anatomy; 
+Ms. Fartypants; Mr Wang; 
+4; 5; 
+Room 2; Room 34; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Kirsten Allansen
+female
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Dorrit Konradsen
+female
+Bio; Anatomy; 
+Ms. Fartypants; Mr Wang; 
+4; 5; 
+Room 2; Room 34; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Rasmine Konradsen
+female
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Bolette Jensen
+female
+Mat; Bio; 
+Mr. Fartypants; Ms. Fartypants; 
+6; 4; 
+Room 1; Room 2; 
+10; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Hans Mikkelsen
+male
+Robotics; Chemistry; 
+Prof. Anderson; Lars Peter; 
+3; 2; 
+Room 39; Room 23; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Dorrit Jensen
+female
+Anatomy; Mat; 
+Mr Wang; Mr. Fartypants; 
+5; 6; 
+Room 34; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Allan Andersen
+male
+Chemistry; Bio; 
+Lars Peter; Ms. Fartypants; 
+2; 4; 
+Room 23; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Bolette Hansen
+female
+Robotics; Anatomy; 
+Prof. Anderson; Mr Wang; 
+3; 5; 
+Room 39; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Rasmine Andersen
+female
+Mat; Robotics; 
+Mr. Fartypants; Prof. Anderson; 
+6; 3; 
+Room 1; Room 39; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Kirsten Allansen
+female
+Anatomy; Bio; 
+Mr Wang; Ms. Fartypants; 
+5; 4; 
+Room 34; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Mikkel Jensen
+male
+Robotics; Bio; 
+Prof. Anderson; Ms. Fartypants; 
+3; 4; 
+Room 39; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Hans Hansen
+male
+Chemistry; Bio; 
+Lars Peter; Ms. Fartypants; 
+2; 4; 
+Room 23; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Hans Andersen
+male
+Anatomy; Chemistry; 
+Mr Wang; Lars Peter; 
+5; 2; 
+Room 34; Room 23; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Kirsten Konradsen
+female
+Mat; Bio; 
+Mr. Fartypants; Ms. Fartypants; 
+6; 4; 
+Room 1; Room 2; 
+10; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Konrad Allansen
+male
+Bio; Anatomy; 
+Ms. Fartypants; Mr Wang; 
+4; 5; 
+Room 2; Room 34; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Gitte Hansen
+female
+Mat; Anatomy; 
+Mr. Fartypants; Mr Wang; 
+6; 5; 
+Room 1; Room 34; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Jens Mikkelsen
+male
+Mat; Chemistry; 
+Mr. Fartypants; Lars Peter; 
+6; 2; 
+Room 1; Room 23; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Bolette Konradsen
+female
+Robotics; Bio; 
+Prof. Anderson; Ms. Fartypants; 
+3; 4; 
+Room 39; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Kirsten Allansen
+female
+Robotics; Mat; 
+Prof. Anderson; Mr. Fartypants; 
+3; 6; 
+Room 39; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Bolette Konradsen
+female
+Chemistry; Bio; 
+Lars Peter; Ms. Fartypants; 
+2; 4; 
+Room 23; Room 2; 
+None; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Gitte Jensen
+female
+Chemistry; Anatomy; 
+Lars Peter; Mr Wang; 
+2; 5; 
+Room 23; Room 34; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Rasmine Konradsen
+female
+Anatomy; Mat; 
+Mr Wang; Mr. Fartypants; 
+5; 6; 
+Room 34; Room 1; 
+None; 10; 
+https://homepages.cae.wisc.edu/~ece533/images/cat.png
+Rasmine Allansen
+female
+Mat; Robotics; 
+Mr. Fartypants; Prof. Anderson; 
+6; 3; 
+Room 1; Room 39; 
+10; None; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
+Konrad Hansen
+male
+Bio; Robotics; 
+Ms. Fartypants; Prof. Anderson; 
+4; 3; 
+Room 2; Room 39; 
+12; None; 
+https://homepages.cae.wisc.edu/~ece533/images/girl.png
+Mikkel Hansen
+male
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/baboon.png
+Konrad Mikkelsen
+male
+Chemistry; Robotics; 
+Lars Peter; Prof. Anderson; 
+2; 3; 
+Room 23; Room 39; 
+None; None; 
+https://homepages.cae.wisc.edu/~ece533/images/zelda.png
+Gitte Andersen
+female
+Mat; Bio; 
+Mr. Fartypants; Ms. Fartypants; 
+6; 4; 
+Room 1; Room 2; 
+10; 12; 
+https://homepages.cae.wisc.edu/~ece533/images/barbara.png
