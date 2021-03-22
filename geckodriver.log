@@ -1,0 +1,317 @@
+1616256794279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuqxIh6"
+Error: no DISPLAY environment variable specified
+1616256916908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg1g2ML"
+Error: no DISPLAY environment variable specified
+1616257125630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg09jZM"
+Error: no DISPLAY environment variable specified
+1616257168027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel8GAFy"
+Error: no DISPLAY environment variable specified
+1616257311567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEYZYBY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616257316434	Marionette	INFO	Listening on port 45467
+1616257316534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616257316580	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616257372582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC4H7F6"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616257376122	Marionette	INFO	Listening on port 45037
+1616257376248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616257376284	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616257402734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuyyLlY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616257405768	Marionette	INFO	Listening on port 34939
+1616257405895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616257405932	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616258321323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Eknkp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616258325168	Marionette	INFO	Listening on port 42637
+1616258325274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616258325317	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616258475083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJMhAad"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616258478876	Marionette	INFO	Listening on port 38061
+1616258478982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616258479009	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616258600775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLw7cZ9"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616258605331	Marionette	INFO	Listening on port 45693
+1616258605461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616258605488	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616258761296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile88i5mb"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616258765309	Marionette	INFO	Listening on port 36779
+1616258765409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616258765457	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616258876176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile94z7pt"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616259405324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1mG7oV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616259465242	Marionette	INFO	Listening on port 44491
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616259786452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQHl1f7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616259944625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYmUwRH"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616260197172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFFZOvi"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616260686791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG7ZzLg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616260690739	Marionette	INFO	Listening on port 43593
+1616260690854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616260690882	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616261481110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9PifRI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616261485082	Marionette	INFO	Listening on port 41363
+1616261485176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616261485209	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616261573103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu83f6R"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616261576660	Marionette	INFO	Listening on port 35517
+1616261576799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616261576846	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616261594531	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepRDoSs"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616261598123	Marionette	INFO	Listening on port 39985
+1616261598208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616261598242	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616261650095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMGZbeI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616261653764	Marionette	INFO	Listening on port 36657
+1616261653883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616261653912	Marionette	ERROR	[15] No reply from Marionette:Register
+1616261654943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVnGWCg"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616261659191	Marionette	INFO	Listening on port 46777
+1616261659317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616261659347	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616261713967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5puEiK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616261718591	Marionette	INFO	Listening on port 38257
+1616261718757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616261718797	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616262176205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejFwKs9"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616262180871	Marionette	INFO	Listening on port 45099
+1616262180990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616262181015	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616344921764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS8LeXY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616344928191	Marionette	INFO	Listening on port 39539
+1616344928282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616344928325	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
