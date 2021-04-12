@@ -315,3 +315,4 @@ JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigante
 JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
 JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616877920641	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
